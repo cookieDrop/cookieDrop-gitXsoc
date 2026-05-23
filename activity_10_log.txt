@@ -1,0 +1,35 @@
+Logs:
+Hostname: kahitano
+IP Address: 10.2.0.5
+
+User Activity Logs:
+help
+ip a
+hostname -I
+ping www.sinrevilo.moc
+traceroute www.sinrevilo.moc
+nslookup www.sinrevilo.moc
+nslookup https://www.xeno-byte.moc
+dig www.sinrevilo.moc
+nmap www.sinrevilo.moc
+nmap sinrevilo.moc
+nmap www.xeno-byte.moc
+www.gi4nt-tcr.moc
+nmap www.gi4nt-tcr.moc
+nmap -sV www.sinrevilo.moc
+nmap -sV www.xeno-byte.moc
+nmap -sV www.gi4nt-tcr.moc
+nmap -A www.gi4nt-tcr.moc
+nmap -A www.sinrevilo.moc
+nmap -A www.xeno-byte.moc
+tcpdump -i Ethernet
+arp-scan --localnet
+sudo arp--scan --localnet
+sudo arp-scan --localnet
+ls
+cat activity_log.txt
+cat activity_real.txt
+cat activity_10_log.txt
+wget activity_log.txt
+wget activity_real.txt
+wget activity_10_log.txt
